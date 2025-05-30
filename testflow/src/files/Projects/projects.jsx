@@ -25,7 +25,7 @@ const projects = [
     description: 'Translate text to Morse code and vice versa.',
     image: morseCodeImg,
     projectLink: 'https://morse-code-translator-psi.vercel.app/',
-    codeLink: 'https://github.com/perumallaharshitha/Morse-Code-Generatorr',
+    codeLink: 'https://github.com/perumallaharshitha/Morse-Code-Generator',
   },
 ];
 
