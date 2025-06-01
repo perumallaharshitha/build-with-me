@@ -43,6 +43,7 @@
 .text-content p {
   color: #555;
   font-size: 0.95rem;
+  text-align: justify;
 }
 
 .timeline-title {

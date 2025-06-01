@@ -9,7 +9,7 @@ function Footer() {
         <div className="mb-2">
           <a href="mailto:harshithaperumalla23@gmail.com" className="text-dark mx-2"><FaEnvelope size={20} /></a>
           <a href="tel:+919573552122" className="text-dark mx-2"><FaPhone size={20} /></a>
-          <a href="www.linkedin.com/in/perumalla-harshitha-975798273" className="text-dark mx-2" target="_blank" rel="noreferrer"><FaLinkedin size={20} /></a>
+          <a href="https://www.linkedin.com/in/perumalla-harshitha-975798273" className="text-dark mx-2" target="_blank" rel="noreferrer"><FaLinkedin size={20} /></a>
           <a href="https://github.com/perumallaharshitha" className="text-dark mx-2" target="_blank" rel="noreferrer"><FaGithub size={20} /></a>
           <a href="https://www.instagram.com/harshiii.122/" className="text-dark mx-2" target="_blank" rel="noreferrer"><FaInstagram size={20} /></a>
         </div>
