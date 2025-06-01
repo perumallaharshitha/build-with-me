@@ -12,7 +12,7 @@ function Home() {
         </p>
 
         <p>
-          I’m a <strong>University Innovation Fellow (UIF)</strong> trained by Stanford d.school, where I’ve led initiatives to spark innovation and student leadership on campus. As part of the <strong>National Entrepreneurship Challenge (NEC)</strong> by IIT Bombay, I explored strategic thinking and entrepreneurship by contributing to business model development and community engagement. I believe in consistent growth, creative thinking, and staying resilient—guided by my personal motto: <em>“Rest if you must, but don’t you quit.”</em>
+          I’m a <strong>University Innovation Fellow (UIF)</strong> trained by Stanford d.school, where I’ve led initiatives to spark innovation and student leadership on campus. As part of the <strong>National Entrepreneurship Challenge (NEC)</strong> by IIT Bombay, I explored strategic thinking and entrepreneurship by contributing to business model development and community engagement. I believe in consistent growth, creative thinking, and staying resilient—guided by my personal motto: <b><em>“Rest if you must, but don’t you quit.”</em></b>
         </p>
       </div>
     </div>
