@@ -9,6 +9,12 @@ import nptel from '../../assets/NPTEL/DataAnalyticswithPython.pdf';
 
 
 const certifications = {
+  'Accenture Summer Internship 2025': [
+    {
+      name: 'Packaged App Development Associate',
+      file: 'https://drive.google.com/file/d/1foID8ThvXNH1HJSxS2jBa0E644kq6dyb/view',
+    },
+  ],
   'Coursera': [
     {
       name: 'HTML, CSS, and Javascript for Web Developers',
